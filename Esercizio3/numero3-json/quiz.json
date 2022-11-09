@@ -1,0 +1,70 @@
+{
+    "giocoQuiz": {
+        "geografia": {
+            "quiz1": {
+                "domanda": "Qual è la capitale dell'Italia?",
+                "scelta": [
+                    "Parigi",
+                    "Madrid",
+                    "Roma",
+                    "Milano"
+                ],
+                "risposta": "Roma"
+            },
+            "quiz2": {
+                "domanda": "Qual è la capitale della Francia?",
+                "scelta": [
+                    "Parigi",
+                    "Madrid",
+                    "Roma",
+                    "Milano"
+                ],
+                "risposta": "Parigi"
+            }
+        },
+        "musica": {
+            "quiz1": {
+                "domanda": "Chi ha scritto Imagine?",
+                "scelta": [
+                    "Paul McCartney",
+                    "John Lennon",
+                    "Ozzy Osburne",
+                    "Kurt Cobain"
+                ],
+                "risposta": "John Lennon"
+            },
+            "quiz2": {
+                "domanda": "Qual è il simbolo degli Alt-j?",
+                "scelta": [
+                    "Stella",
+                    "Delta",
+                    "Cuore",
+                    "Cerchio"
+                ],
+                "risposta": "Delta"
+            }
+        },
+        "supereroi": {
+            "quiz1": {
+                "domanda": "Quali superpoteri possiede Batman?",
+                "scelta": [
+                    "Invisibilità",
+                    "Velocità",
+                    "Occhi Laser",
+                    "Nessuno"
+                ],
+                "risposta": "Nessuno"
+            },
+            "quiz2": {
+                "domanda": "Chi è Peter Parker?",
+                "scelta": [
+                    "Flash",
+                    "Batman",
+                    "Superman",
+                    "Spiderman"
+                ],
+                "risposta": "Spiderman"
+            }
+        }
+    }
+}

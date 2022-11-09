@@ -1,0 +1,99 @@
+{
+    "studenti": [
+        {
+            "id": 100,
+            "nome": "Alessia",
+            "cognome": "Lacitignola",
+            "libriLetti": [
+                "Diamante Nero",
+                "Rubino Rosso"
+            ],
+            "filmVisti": [
+                "Harry Potter",
+                "Avengers"
+            ]
+        },
+        {
+            "id": 101,
+            "nome": "Barbara",
+            "cognome": "Rossi",
+            "libriLetti": [
+                "Harry Potter",
+                "Biancaneve e i sette nani"
+            ],
+            "filmVisti": [
+                "Harry Potter",
+                "Avatar"
+            ]
+        },
+        {
+            "id": 102,
+            "nome": "Carlo",
+            "cognome": "Bianchi",
+            "libriLetti": [
+                "Pinocchio",
+                "La carica dei 101"
+            ],
+            "filmVisti": [
+                "Il signore degli anelli"
+            ]
+        },
+        {
+            "id": 103,
+            "nome": "Davide",
+            "cognome": "Verdi",
+            "libriLetti": [
+                "Cucina Botanica"
+            ],
+            "filmVisti": [
+                "Inception",
+                "Scary Movie"
+            ]
+        },
+        {
+            "id": 104,
+            "nome": "Erasmo",
+            "cognome": "Piccoli",
+            "libriLetti": [
+                "L'investitore intelligente",
+                "Padre ricco padre povero"
+            ],
+            "filmVisti": [
+                "The wolf of Wall Street",
+                "Spiderman"
+            ]
+        }
+    ],
+    "materie": {
+        "materia1": "HTML",
+        "materia2": "CSS",
+        "materia3": "Bootstrap",
+        "materia4": "Javascript"
+    },
+    "docenti": {
+        "docente1": {
+            "id": 1,
+            "nome": "Dario",
+            "cognome": "Del Giudice",
+            "corso": "Front-End"
+        },
+        "docente2": {
+            "id": 2,
+            "nome": "Massimo",
+            "cognome": "Mannocchi",
+            "corso": "Front-End"
+        },
+        "docente3": {
+            "id": 3,
+            "nome": "Gino",
+            "cognome": "Ferrari",
+            "corso": "Back-End"
+        },
+        "docente4": {
+            "id": 4,
+            "nome": "Pino",
+            "cognome": "Gallo",
+            "corso": "Back-End"
+        }
+    }
+}
